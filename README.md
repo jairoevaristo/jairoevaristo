@@ -11,4 +11,4 @@
 
 ##
 
-:coffee: Everything can be solved with a good cup of coffee
+:coffee: Everything can be solved with a good cup of coffee.

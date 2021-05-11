@@ -5,8 +5,8 @@
 
 # Motivations :no_good_man:
 
-- Develop projects that will help people :man_technologist:.
-- Always learning something every day :pencil:.
+- Develop projects that will help people :man_technologist:
+- Always learning something every day :pencil:
 
 ##
 

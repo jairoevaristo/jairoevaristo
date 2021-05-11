@@ -5,9 +5,9 @@
 
 ## Motivations :computer:
 
-- Develop or help with projects that will help other people's lives.
-- Always learning something every day.
+- Develop or help with projects that will help other people's lives :man_technologist:.
+- Always learning something every day :pencil:.
 
 ##
 
-:coffee: Everything can be solved with a good cup of coffee.
+Everything can be solved with a good cup of coffee :coffee:.

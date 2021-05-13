@@ -10,6 +10,6 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairoevaristo&theme=dark&show_icons=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairoevaristo&theme=dark&show_icons=true)
 
 *Everything can be solved with a good cup of coffee* :coffee:.

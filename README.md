@@ -17,6 +17,6 @@
 # Social
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@jairoevaristo12-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jairo_evaristo12)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-jairoevaristo-%#0984e3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairoevaristo)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-jairoevaristo-%0984e3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairoevaristo)
 
 *Everything can be solved with a good cup of coffee* :coffee:.

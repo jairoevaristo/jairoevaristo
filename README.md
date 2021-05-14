@@ -17,8 +17,7 @@
 # Social :sparkles:
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@jairoevaristo12-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jairo_evaristo12)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@jairoevaristo12-%0097E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairoevaristo)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-jairoevaristo-%0097E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairoevaristo)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-jairoevaristo-%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairoevaristo)
 
 ##
 

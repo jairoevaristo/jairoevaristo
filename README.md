@@ -10,6 +10,8 @@
 
 ##
 
+# Metrics :bar_chart:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairoevaristo&theme=dark&show_icons=true)
 
 ##

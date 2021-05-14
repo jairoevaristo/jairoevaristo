@@ -17,8 +17,8 @@
 # Social :sparkles:
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@jairoevaristo12-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jairo_evaristo12)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-jairoevaristo-%0984e3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairoevaristo)
-[![Email Badge](https://img.shields.io/badge/Email-jairoevaristodev-%e84118?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox)
+[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-jairoevaristo-%0984e3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairoevaristo)
+[![Email Badge](https://img.shields.io/badge/Email-jairoevaristodev-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox)
 
 ##
 

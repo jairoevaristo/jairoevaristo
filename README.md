@@ -1,4 +1,4 @@
-![capa_github](./logo.png) 
+ 
 
 # Welcome, Hi Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 - Good to have you here I hope you like the projects, feel free :tada:.

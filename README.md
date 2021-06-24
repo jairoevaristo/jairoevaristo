@@ -1,7 +1,7 @@
  
 
 # Welcome, Hi Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-- Que bom ter você aqui espero que goste dos projetos, fiquem a vontade :tada:.
+- Que bom ter você aqui espero que goste dos projetos, fique a vontade :tada:.
 
 # Motivations :no_good_man:
 

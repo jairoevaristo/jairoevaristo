@@ -23,4 +23,4 @@
 
 ##
 
-*Tudo se resolve com uma boa xícara de café* :coffee:.
+*Este usuário gosta muito de café* :coffee:.
